@@ -1,0 +1,1 @@
+basicConstraints = CA:falsesubjectKeyIdentifier=hashauthorityKeyIdentifier=keyid:always,issuer:always
