@@ -1,6 +1,8 @@
 # MacSSL
 ## A port of Mbed-TLS for the Classic Macintosh OS 7/8/9
 
+_Note: this repository will never change. It's a proof of concept and template._
+
 This is a C89/C90 port of MbedTLS for Mac System 7/8/9. It works, and compiles under Metrowerks Codewarrior Pro 4. Here's the proof:
 
 ![Proof of pulling an API request down](https://bbenchoff.github.io/images/640by480Client.png)
